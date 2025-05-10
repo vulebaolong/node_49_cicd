@@ -1,6 +1,6 @@
 services:
    service-cyber_community:
-      image: img-cyber_community
+      image: vulebaolong/img-cyber_community:latest
       container_name: con-cyber_community
       ports:
          - 3070:3069
